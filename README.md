@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdallahmo12" alt="abdallahmo12" /></a> </p>
 
-- 🔭 I’m currently working on **E - Commerce Project**
+- 🔭 I’m currently working on **Weather - App**
 
-- 🌱 I’m currently learning **ReactJs , Redux , NextJs**
+- 🌱 I’m currently learning **ReactJs , NextJs**
 
 - 👯 I’m looking to collaborate on **E- Learning Project OR Movies Website**
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/abdallah-mohsen-47b732176/](https://www.linkedin.com/in/abdallah-mohsen-47b732176/)
 
-- 💬 Ask me about **js and react**
+- 💬 Ask me about **js and bootstrap , react , redux**
 
 - 📫 How to reach me **abdallahmo122@gmail.com**
 
