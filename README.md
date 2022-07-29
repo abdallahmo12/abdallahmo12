@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Weather App & Complex Dashbord App**
 
-- 🌱 I’m currently learning ** NextJs , JQuery **
+- 🌱 I’m currently learning **NextJs , JQuery**
 
 - 👯 I’m looking to collaborate on **E- Learning Project OR Movies Website**
 
