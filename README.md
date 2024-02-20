@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdallahmo12?tab=repositories](https://github.com/abdallahmo12?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/abdallah-mohsen-47b732176/](https://www.linkedin.com/in/abdallah-mohsen-47b732176/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/abdallah-mohsen-18a95825a/](https://www.linkedin.com/in/abdallah-mohsen-18a95825a/)
 
 - 💬 Ask me about **js and bootstrap , react , redux**
 
